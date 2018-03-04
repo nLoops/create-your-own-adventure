@@ -31,3 +31,5 @@
 [أحب هذا الكورس](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 
 [سي يسيس] (https://www.youtube.com/watch?v=EUw-zTz8cU8)
+
+Likedin وبكل بساطه هو الشيء العظيم الذي يمكن ان تحصل على كل ما هو مفيد في مجال عملك
